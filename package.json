@@ -1,0 +1,22 @@
+{
+  "name": "trwdb-s33-cdhwt-ejs-miniapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaviguasch/trwdb-s33-cdhwt-ejs-miniapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaviguasch/trwdb-s33-cdhwt-ejs-miniapp/issues"
+  },
+  "homepage": "https://github.com/xaviguasch/trwdb-s33-cdhwt-ejs-miniapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
